@@ -5,6 +5,10 @@
 
 ![Dove](demo/demo.png)
 
+## Vs-code Marketplace Link :
+
+Link : https://marketplace.visualstudio.com/items?itemName=meyash.dove
+
 ## Github Repository :
 
 Link : https://github.com/meyash/dove-vscode
