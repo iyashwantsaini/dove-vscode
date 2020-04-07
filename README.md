@@ -1,13 +1,22 @@
-# README
-## This is the README for your extension "dove"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Dove
+## Vs-code Theme
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+## Demo :
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+![Dove](demo/demo.png)
+
+## Github Repository :
+
+Link : https://github.com/meyash/dove-vscode
+
+## Main Colors :
+
+"#0E0B16"
+"#CD5360"
+"#2f2840"
+"#00ff7f"
+"#26213b"
+"#ff7f50"
+"#00ff7f"
 
 **Enjoy!**
