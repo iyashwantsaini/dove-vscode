@@ -1,0 +1,37 @@
+{
+    "name": "dove",
+    "displayName": "Dove Theme",
+    "description": "Beautiful Dark theme for vs-code",
+    "version": "0.0.1",
+    "publisher": "meyash",
+    "icon": "images/dove.png",
+    "author": {
+        "name": "Yashwant",
+        "email": "yashsn2127@gmail.com"
+      },
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/meyash/dove-vscode"
+      },
+    "engines": {
+        "vscode": "^1.43.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "Themes",
+        "Dark Theme",
+        "color-theme",
+        "Dove"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dove",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dove-color-theme.json"
+            }
+        ]
+    }
+}
